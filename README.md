@@ -2,4 +2,5 @@
 Project C# zip file.
 
 What's New:
-Animation Controller Script
+=> Animation Controller Script
+=> Player Motor Script
